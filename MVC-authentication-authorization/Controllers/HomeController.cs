@@ -22,6 +22,7 @@ namespace MVC_authentication_authorixaion.Controllers
 
         public ActionResult Contact()
         {
+
             ViewBag.Message = "Your contact page.";
 
             return View();
